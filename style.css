@@ -1,0 +1,58 @@
+BODY {  BACKGROUND-COLOR: #FFFFFF;
+	scrollbar-base-color: #279BA6; }
+
+
+a:link		{ color: #333399; text-decoration: none }
+
+a:visited	{ color: #333399; text-decoration: none }
+
+a:active	{ color: #333399; text-decoration: none }
+
+a:hover		{ color: #00CC00; text-decoration: underline }
+
+TABLE 		{ COLOR: #000000; FONT: 11px geneva, verdana, arial, sans-serif; font-weight: normal }
+
+.title 		{ COLOR: #009999; FONT: 17px arial, verdana, sans-serif; font-weight: bold }
+
+.subtitle 	{ COLOR: #000000; FONT: 15px arial, verdana, sans-serif; font-weight: bold }
+
+.price	 	{ COLOR: #009999; FONT: 15px arial, verdana, sans-serif; font-weight: bold }
+
+.sidebartext 	{ COLOR: #000033; FONT: 11px geneva, verdana, arial, sans-serif; font-weight: normal }
+
+.menutext 	{ COLOR: #000000; FONT: 12px geneva, verdana, arial, sans-serif; font-weight: normal }
+
+.footertext 	{ COLOR: #9B9FA8; FONT: 10px arial, geneva, verdana, sans-serif; font-weight: bold }
+
+.borders	{ BORDER: #9B9FA8 1px solid }
+
+.just 		{text-align: justify;}
+
+
+
+
+.contact 	{ COLOR: #999999; FONT: 15px geneva, verdana, arial, sans-serif; font-weight: bold }
+
+
+
+.formbutton 	{ FONT: 12px arial, verdana, sans-serif }
+
+
+
+.shadeform	{ FONT: 12px arial, verdana, sans-serif;
+		WIDTH: 200PX;
+		BORDER: #000000 1px solid}
+
+
+.textarea	{ FONT: 12px arial, verdana, sans-serif;
+		WIDTH: 300PX;
+		HEIGHT: 150PX;
+		BORDER: #000000 1px solid}
+
+
+.dropdown 	{ COLOR: #333333;
+		WIDTH: 200PX;
+		FONT: 12px geneva, verdana, arial, sans-serif}
+
+
+.date-font { color: #999999; font: 12px verdana, arial, sans-serif; font-weight: bold} 

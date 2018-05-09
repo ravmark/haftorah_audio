@@ -1,0 +1,3 @@
+logo=Welcome to HaftarahAudio.com
+&slogan=             Your online resource to learn how to chant Haftarah!
+&url=index.html

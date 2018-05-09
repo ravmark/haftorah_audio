@@ -1,0 +1,26 @@
+<!-- THIS AREA IS SO SEARCH ENGINES CAN SEE ALL YOUR PAGES. EDIT THE ALT TAGS -->
+
+<a href="index.html"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="Siddur Audio learn Hebrew prayer"></a>
+
+<a href="about.html"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="siddur audio about"></a>
+
+<a href="links.html"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="siddur audio links"></a>
+
+<a href="contact.html"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="siddur audio contact"></a>
+
+<a href="donate.html"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="siddur audio donate"></a>
+
+<a href="zemirot.html"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="siddur audio zemirot"></a>
+
+<a href="http://bshalom.net"><IMG SRC="picts/spacer.gif" height="1" width="1" border="0" alt="Congregation Beth Shalom Atlanta synagogue"></a>	
+	
+
+
+
+
+Hidden Keywords
+
+	<font color="White" size="-2">Keywords: Siddur, audio, siddur audio, audio siddur, Shabbat, Shabbos, Jewish, Judaica, 
+	liturgy, synagogue, shul, Israel, Bar Mitzvah, prayer, prayerbook, learn, chant, Sim Shalom, sound, recording, 
+	sound clips, mp3, learn, lead, Congregation Beth Shalom, Atlanta, Hebrew, melody, Rabbi Mark Zimmerman</font>
+	<br><br>
